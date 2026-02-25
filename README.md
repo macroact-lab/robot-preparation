@@ -12,8 +12,18 @@
 
 
 &nbsp;
-## 마이캣 전원 켜기
+## 전원 켜기
 로봇을 사용하기 위해서는 아래 그림과 같이 먼저 배 부분에 있는 배터리 씰을 제거해야 합니다.
 그리고, 꼬리 부분에 있는 전원 버튼을 눌러 전원을 켜세요.<br/>
-마이캣은 아래 그림과 같이 모든 다리가 머리쪽으로 향하도록 충전스테이션 위에 올려주세요. 전원이 켜지면 눈을 감고 있는 모양이 나타납니다.</br>
+로봇은 아래 그림과 같이 모든 다리가 머리쪽으로 향하도록 충전스테이션 위에 올려주세요. 전원이 켜지면 눈을 감고 있는 모양이 나타납니다.</br>
 <img width="640" alt="turn_on_robot" src="https://github.com/user-attachments/assets/3d5a4dff-e898-4354-bef6-f8b409127c91" />
+
+
+&nbsp;
+## 무선랜 설정
+시큐어 셸(Secure Shell, SSH)을 이용해 로봇 시스템에 접속하기 위해서는 전용 앱 "Maicat Connect"를 통해서 무선랜 설정을 해야 합니다.</br>
+[![App Store](https://img.shields.io/badge/App_Store-000000?style=for-the-badge&logo=apple&logoColor=white)](https://apps.apple.com/us/app/maicat-connect/id6759514713)
+[![Google Play](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.macroact.app.maicat_connect)
+
+앱을 설치한 후 블루투스를 켜고 그림의 순서를 따라 사용하시는 무선랜을 연결합니다. WPA/WPA2(PSK) 방식과 2.4GHz 지원</br>
+<img width="640" alt="setup_wifi_ko" src="https://github.com/user-attachments/assets/bdafb9b3-9177-4e75-8974-6da6a25d9de4" />
