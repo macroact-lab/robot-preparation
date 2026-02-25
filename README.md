@@ -27,3 +27,7 @@
 
 앱을 설치한 후 블루투스를 켜고 그림의 순서를 따라 사용하시는 무선랜을 연결합니다. WPA/WPA2(PSK) 방식과 2.4GHz 지원</br>
 <img width="640" alt="setup_wifi_ko" src="https://github.com/user-attachments/assets/bdafb9b3-9177-4e75-8974-6da6a25d9de4" />
+
+
+&nbsp;
+[다음 - 실용 로봇공학](https://github.com/macroact-lab/robotics-book/blob/main/README.md)
