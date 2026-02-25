@@ -14,6 +14,5 @@
 ## 마이캣 전원 켜기
 로봇을 사용하기 위해서는 아래 그림과 같이 먼저 배 부분에 있는 배터리 씰을 제거해야 합니다.
 그리고, 꼬리 부분에 있는 전원 버튼을 눌러 전원을 켜세요.<br/>
-마이캣은 충전스테이션 위에 그림과 같이 올려주세요. 전원이 켜지면 눈을 감고 있는 모양이 나타납니다. 
-![GitHub_battery-power](https://github.com/user-attachments/assets/d494a00e-4fd7-4a7d-bd9f-7186cfc5bb8a)
-
+마이캣은 충전스테이션 위에 그림과 같이 올려주세요. 전원이 켜지면 눈을 감고 있는 모양이 나타납니다.
+![turn_on_robot](https://github.com/user-attachments/assets/3d5a4dff-e898-4354-bef6-f8b409127c91)
