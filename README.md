@@ -21,7 +21,8 @@
 
 &nbsp;
 ## 무선랜 설정
-시큐어 셸(Secure Shell, SSH)을 이용해 로봇 시스템에 접속하기 위해서는 전용 앱 "Maicat Connect"를 통해서 무선랜 설정을 해야 합니다.</br>
+전용 앱 "Maicat Connect"를 통해서 무선랜 설정을 합니다.</br>
+로봇 시스템에 접속하기 위해서는 무선랜 설정 후 시큐어 셸(Secure Shell, SSH) 등을 이용할 수 있습니다.</br>
 [![App Store](https://img.shields.io/badge/App_Store-000000?style=for-the-badge&logo=apple&logoColor=white)](https://apps.apple.com/us/app/maicat-connect/id6759514713)
 [![Google Play](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.macroact.app.maicat_connect)
 
