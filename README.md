@@ -32,4 +32,11 @@
 
 
 &nbsp;
+## 퀵 가이드
+자세한 내용은 아래 '퀵 가이드'를 확인하세요.</br>
+[Maicat_Quick-Guide_EV_(KO)_2026.pdf](https://github.com/user-attachments/files/25672448/Maicat_Quick-Guide_EV_.KO._2026.pdf)
+
+</br>
+</br>
+</br>
 [다음 - 실용 로봇공학](https://github.com/macroact-lab/robotics-book/blob/main/README.md)
